@@ -122,3 +122,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/cookies
+
+/expired_cookies
+
+proxy.txt
+
+spotify_accounts.txt
