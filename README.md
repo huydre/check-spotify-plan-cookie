@@ -1,0 +1,1 @@
+# check-spotify-plan-cookie
